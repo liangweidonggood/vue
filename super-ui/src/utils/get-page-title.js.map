@@ -1,0 +1,1 @@
+{"version":3,"file":"get-page-title.js","sourceRoot":"","sources":["get-page-title.ts"],"names":[],"mappings":"AAAA;;;;GAIG;AACH,MAAM,CAAC,OAAO,UAAU,YAAY,CAAC,SAAiB,EAAE,QAAiB;IACvE,IAAI,SAAS,EAAE;QACb,OAAO,GAAG,QAAQ,MAAM,SAAS,EAAE,CAAA;KACpC;IACD,OAAO,GAAG,QAAQ,EAAE,CAAA;AACtB,CAAC"}

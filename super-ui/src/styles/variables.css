@@ -1,0 +1,11 @@
+:export {
+  menuText: #bfcbd9;
+  menuActiveText: #fff;
+  menuActiveBg: #2d8cf0;
+  menuBg: #001529;
+  subMenuBg: #1f2d3d;
+  subMenuHover: #2d8cf0;
+  menuWidth: 200px;
+  menuMinWidth: 64px;
+}
+/*# sourceMappingURL=variables.css.map */

@@ -1,0 +1,7 @@
+"use strict";
+const req = require.context('./svg', false, /\.svg$/);
+const requireAll = (requireContext) => {
+    requireContext.keys().map(requireContext);
+};
+requireAll(req);
+//# sourceMappingURL=index.js.map
